@@ -17,4 +17,4 @@ Analyze the data given by Kempower about EV charging and make research and innov
 # Documentation
   - All documentation, dataset, analyzes will be saved on my local machine.
 # Testing
-  - Since this project is mostly based on analizing the data, testing is not necessary.
+  - Since this project is mostly based on analizing the data, testing is not necessary. 
