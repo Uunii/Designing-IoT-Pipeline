@@ -13,7 +13,8 @@ Analyze the data given by Kempower about EV charging and make research and innov
   - Every roles goes to me :)
 # Communication platform
   - Not needed
-# The research data will be given. ---“Kempower Passenger EV Charging Dataset”---
+# The research data will be given. 
+---“Kempower Passenger EV Charging Dataset”---
 # Documentation
   - All documentation, dataset, analyzes will be saved on my local machine.
 # Testing
