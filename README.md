@@ -27,6 +27,7 @@ Analyze the data given by Kempower about EV charging and make research and innov
 Compare average power, average current average voltage, and SoC increments per EV model.
  
   -Instead of using just power, calculate the power efficiency
+  
 
 2.Temperature Impact on Charging Performance
 
@@ -35,6 +36,7 @@ Analyze avgPowerW and SoC changes across temperature
   -Instead using simple averages, calculate percentage drop in charging efficiency per degree change.
   
   -Can suggest seasonal adjustment, specially in countries with high temperature differences in seasons.
+  
 
 3.Hotspots for Models
 
