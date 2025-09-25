@@ -40,6 +40,6 @@ Analyze avgPowerW and SoC changes across temperature
 
 - 3.Hotspots for Models
 
-  -Analyze and fnd which Model cars are most popular in which countries 
+Analyze and fnd which Model cars are most popular in which countries 
   
   -Can help to decide where to expand what station
