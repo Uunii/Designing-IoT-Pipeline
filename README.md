@@ -24,7 +24,7 @@ Analyze the data given by Kempower about EV charging and make research and innov
 
 1.Charging Efficiency Insights per car Model
 Compare average power, average current average voltage, and SoC increments per EV model.
-  - Instead of using just power, calculate the power efficiency
+  -Instead of using just power, calculate the power efficiency
 
 2.Temperature Impact on Charging Performance
 Analyze avgPowerW and SoC changes across temperature
