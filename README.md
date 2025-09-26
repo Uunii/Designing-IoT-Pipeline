@@ -12,11 +12,12 @@ Analyze the data given by Kempower about EV charging and make research and innov
 # Roles
   - Every roles goes to me :)
 # Communication platform
-  - Not needed
+  - For discussions we use Whatsapp, meeting at the school.
+  - For sharing files we use github
 # The research data will be given. 
 ---“Kempower Passenger EV Charging Dataset”---
 # Documentation
-  - All documentation, dataset, analyzes will be saved on my local machine.
+  - The dataset and other documentations will be saved on our own local computers and analyzes and other ideas will be saved on github.
 # Testing
   - Since this project is mostly based on analizing the data, testing is not necessary.
 
