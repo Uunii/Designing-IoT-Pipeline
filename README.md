@@ -10,14 +10,15 @@ Analyze the data given by Kempower about EV charging and make research and innov
 
     - Currently I am planning to work on 2024 as main focus year since its a complete year and I can analyze full year cycle easily since 2025 hasn't ended yet, but briefly show if the trend seen in 2024 still can be seen in 2025.
 # Roles
-  - Every roles goes to me :)
+  - Scrum master: Uunii
+  - Developer: Md Shahriar Hossain
 # Communication platform
   - For discussions we use Whatsapp, meeting at the school.
   - For sharing files we use github
 # The research data will be given. 
 ---“Kempower Passenger EV Charging Dataset”---
 # Documentation
-  - The dataset and other documentations will be saved on our own local computers and analyzes and other ideas will be saved on github.
+  - The dataset and other documentations will be saved on our own local computers then analyzes and other ideas will be saved on github.
 # Testing
   - Since this project is mostly based on analizing the data, testing is not necessary.
 
