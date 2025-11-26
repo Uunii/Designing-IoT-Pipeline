@@ -10,13 +10,13 @@ Analyze the data given by Kempower about EV charging and make research and innov
 
   - Currently I am planning to work on 2024 as main focus year since its a complete year and I can analyze full year cycle easily since 2025 hasn't ended yet, but briefly show if the trend seen in 2024 still can be seen in 2025.
 # Roles
-  - I am working on this project by my self, so all roles goes to me.
+  - I am working on this project by myself, so all roles goes to me.
 # Communication platform
   - Not needed
 # The research data will be given. 
 ---“Kempower Passenger EV Charging Dataset”---
 # Documentation
-  - The dataset and other documentations will be saved on my own local computers then analyzes and other ideas will be saved on github.
+  - The dataset and other documentations will be saved on my own local computers then analyzes and other ideas, progresses will be saved on github.
 # Testing
   - Since this project is mostly based on analizing the data, testing is not necessary.
 
